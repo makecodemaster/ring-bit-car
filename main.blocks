@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Fx^r(GWn+2nTbkLLZe_n" x="20" y="20"/><block type="device_forever" id="x:Riq]aCH*pDF3fmr8oi" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Fx^r(GWn+2nTbkLLZe_n" x="0" y="0"/><block type="device_forever" id="x:Riq]aCH*pDF3fmr8oi" x="205" y="0"/><block type="ringbitcar_init" id=";ZcTwV1Xo!:s?Pc:ny}+" disabled="true" x="73" y="103"><field name="left">AnalogPin.P1</field><field name="right">AnalogPin.P2</field></block></xml>

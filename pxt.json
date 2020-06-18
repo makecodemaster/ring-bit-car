@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.0.2"
     },
     "files": [
         "main.blocks",
